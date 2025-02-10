@@ -41,8 +41,6 @@ const Haaziq = {
 
 > 📦 22.5 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -101,7 +99,7 @@ Cuda                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2025 01:17:00 UTC
+ Last Updated on 10/02/2025 01:14:00 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
