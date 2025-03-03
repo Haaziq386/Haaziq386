@@ -39,7 +39,9 @@ const Haaziq = {
 
 **🐱 My GitHub Data** 
 
-> 📦 22.6 kB Used in GitHub's Storage 
+> 📦 22.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +101,7 @@ Cuda                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2025 01:19:23 UTC
+ Last Updated on 03/03/2025 01:18:31 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
