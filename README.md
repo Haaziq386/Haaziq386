@@ -41,6 +41,8 @@ const Haaziq = {
 
 > 📦 22.6 kB Used in GitHub's Storage 
  > 
+> 🏆 7 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -90,16 +92,16 @@ No Activity Tracked This Week
 
 ```text
 C++                      4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
 Jupyter Notebook         2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Dart                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 28/05/2025 01:25:04 UTC
+ Last Updated on 29/05/2025 01:24:32 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
