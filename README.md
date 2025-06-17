@@ -39,7 +39,9 @@ const Haaziq = {
 
 **🐱 My GitHub Data** 
 
-> 📦 22.5 kB Used in GitHub's Storage 
+> 📦 22.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 122 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -99,7 +101,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2025 01:28:57 UTC
+ Last Updated on 17/06/2025 01:27:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
