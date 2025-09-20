@@ -31,8 +31,6 @@ const Haaziq = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182.5%20thousand%20lines%20of%20code-blue)
@@ -49,45 +47,6 @@ const Haaziq = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                156 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-🌆 Daytime                243 commits         ████████░░░░░░░░░░░░░░░░░   31.15 % 
-🌃 Evening                304 commits         ██████████░░░░░░░░░░░░░░░   38.97 % 
-🌙 Night                  77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Tuesday                  91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Wednesday                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Thursday                 234 commits         ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Friday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Saturday                 103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C++** 
 
 ```text
@@ -101,7 +60,7 @@ Cuda                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2025 01:20:39 UTC
+ Last Updated on 20/09/2025 01:17:19 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
