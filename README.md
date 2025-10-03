@@ -31,17 +31,15 @@ const Haaziq = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182.7%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 25.5 kB Used in GitHub's Storage 
  > 
-> 🏆 127 Contributions in the Year 2025
+> 🏆 129 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,45 +47,6 @@ const Haaziq = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                156 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-🌆 Daytime                243 commits         ████████░░░░░░░░░░░░░░░░░   31.11 % 
-🌃 Evening                305 commits         ██████████░░░░░░░░░░░░░░░   39.05 % 
-🌙 Night                  77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Tuesday                  92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Wednesday                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Thursday                 234 commits         ███████░░░░░░░░░░░░░░░░░░   29.96 % 
-Friday                   105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Saturday                 103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -101,7 +60,7 @@ Cuda                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 01:19:25 UTC
+ Last Updated on 03/10/2025 01:18:24 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
