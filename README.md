@@ -47,6 +47,45 @@ const Haaziq = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                146 commits         █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
+🌆 Daytime                237 commits         ████████░░░░░░░░░░░░░░░░░   32.42 % 
+🌃 Evening                279 commits         ██████████░░░░░░░░░░░░░░░   38.17 % 
+🌙 Night                  69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Tuesday                  94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Wednesday                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Thursday                 210 commits         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+Friday                   85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Saturday                 104 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Sunday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -60,7 +99,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 01:20:38 UTC
+ Last Updated on 03/11/2025 01:19:30 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
