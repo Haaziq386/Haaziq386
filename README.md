@@ -23,7 +23,7 @@ const Haaziq = {
         databases: ["MongoDB", "SQLite", "Firebase Realtime DB"],
         misc: ["Socket.IO", "REST APIs", "WebSockets"],
     },
-    currentFocus: "Leading a way in computer architecture research",
+    currentFocus: "Leading a way in Deep learning research",
 };
 ```
 
