@@ -31,11 +31,9 @@ const Haaziq = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-849.58%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-850.25%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -49,45 +47,6 @@ const Haaziq = {
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                150 commits         █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-🌆 Daytime                252 commits         ████████░░░░░░░░░░░░░░░░░   31.94 % 
-🌃 Evening                318 commits         ██████████░░░░░░░░░░░░░░░   40.30 % 
-🌙 Night                  69 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Tuesday                  103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Wednesday                86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Thursday                 223 commits         ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-Friday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Saturday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Sunday                   86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -101,7 +60,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 01:23:57 UTC
+ Last Updated on 03/01/2026 01:19:09 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
