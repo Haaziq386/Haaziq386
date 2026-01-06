@@ -31,9 +31,11 @@ const Haaziq = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-850.47%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-853.63%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -47,6 +49,45 @@ const Haaziq = {
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                152 commits         █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+🌆 Daytime                259 commits         ████████░░░░░░░░░░░░░░░░░   31.94 % 
+🌃 Evening                329 commits         ██████████░░░░░░░░░░░░░░░   40.57 % 
+🌙 Night                  71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Tuesday                  106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Wednesday                86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Thursday                 227 commits         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Friday                   98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Saturday                 105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Sunday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -60,7 +101,7 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:40:52 UTC
+ Last Updated on 06/01/2026 01:23:38 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
