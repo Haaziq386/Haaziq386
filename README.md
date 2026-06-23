@@ -35,13 +35,13 @@ const Haaziq = {
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-985.11%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-889.49%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 67.5 kB Used in GitHub's Storage 
  > 
-> 🏆 119 Contributions in the Year 2026
+> 🏆 118 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -52,21 +52,21 @@ const Haaziq = {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-🌆 Daytime                193 commits         █████████░░░░░░░░░░░░░░░░   36.76 % 
-🌃 Evening                208 commits         ██████████░░░░░░░░░░░░░░░   39.62 % 
-🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+🌞 Morning                60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+🌆 Daytime                161 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌃 Evening                207 commits         ███████████░░░░░░░░░░░░░░   42.86 % 
+🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   104 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Tuesday                  91 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Wednesday                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Thursday                 119 commits         ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-Friday                   104 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Saturday                 22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Sunday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Monday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+Tuesday                  74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Wednesday                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Thursday                 105 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+Friday                   98 commits          █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Saturday                 22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Sunday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 ```
 
 
@@ -91,17 +91,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ██████████████░░░░░░░░░░░   55.00 % 
-Cuda                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Python                   10 repos            █████████████░░░░░░░░░░░░   52.63 % 
+Cuda                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 22/06/2026 03:52:41 UTC
+ Last Updated on 23/06/2026 02:52:21 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
