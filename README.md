@@ -9,6 +9,8 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+My current professional AI infrastructure work is on `@haaziq-sl`, focused on realtime speech inference, GPU serving, C++/CUDA/Metal inference, ASR/TTS/STT models, native inference packaging, and production benchmarking.
+
 Professional account: [@haaziq-sl](https://github.com/haaziq-sl)
 
 ```javascript
