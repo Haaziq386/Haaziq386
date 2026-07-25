@@ -51,45 +51,6 @@ const Haaziq = {
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-🌆 Daytime                162 commits         ████████░░░░░░░░░░░░░░░░░   33.40 % 
-🌃 Evening                207 commits         ███████████░░░░░░░░░░░░░░   42.68 % 
-🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Tuesday                  74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Wednesday                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Thursday                 106 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Friday                   98 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-Saturday                 23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-Sunday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -103,7 +64,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:22:20 UTC
+ Last Updated on 25/07/2026 02:21:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
