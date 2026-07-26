@@ -35,6 +35,8 @@ const Haaziq = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-889.49%20thousand%20lines%20of%20code-blue?style=flat)
@@ -51,6 +53,45 @@ const Haaziq = {
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+🌆 Daytime                162 commits         ████████░░░░░░░░░░░░░░░░░   33.40 % 
+🌃 Evening                207 commits         ███████████░░░░░░░░░░░░░░   42.68 % 
+🌙 Night                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+Tuesday                  74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Wednesday                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+Thursday                 106 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Friday                   98 commits          █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Saturday                 23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Sunday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -64,7 +105,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:21:08 UTC
+ Last Updated on 26/07/2026 02:26:58 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
