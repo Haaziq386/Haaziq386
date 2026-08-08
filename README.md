@@ -35,6 +35,8 @@ const Haaziq = {
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-969.04%20thousand%20lines%20of%20code-blue?style=flat)
@@ -51,6 +53,51 @@ const Haaziq = {
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+🌆 Daytime                179 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌃 Evening                233 commits         ███████████░░░░░░░░░░░░░░   43.39 % 
+🌙 Night                  60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   116 commits         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+Tuesday                  80 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Wednesday                24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Thursday                 115 commits         █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Friday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Saturday                 25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Sunday                   68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -64,7 +111,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:28:30 UTC
+ Last Updated on 08/08/2026 01:16:40 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
