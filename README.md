@@ -101,17 +101,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            █████████████░░░░░░░░░░░░   52.63 % 
-Cuda                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Python                   9 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Cuda                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
 
 
 
 
- Last Updated on 25/09/2026 03:15:00 UTC
+ Last Updated on 26/09/2026 03:19:08 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
